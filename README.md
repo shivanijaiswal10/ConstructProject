@@ -6,6 +6,7 @@
 The objective of this project is to gain in-depth knowledge and practical experience in implementing the Page Object Model (POM) design pattern using Selenium WebDriver for efficient web application testing.
 
 # Code screenshot
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/415d28cd-0cc0-4ff8-86cb-dd64588844fe)
+
 
 
