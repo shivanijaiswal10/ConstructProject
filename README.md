@@ -3,10 +3,14 @@
 
 
 # Objective:
-The objective of this project is to gain in-depth knowledge and practical experience in implementing the Page Object Model (POM) design pattern using Selenium WebDriver for efficient web application testing.
-
+The objective of this assignment is to build a Selenium script that automates the process of searching for a product, adding it to the cart, and completing the checkout process on the website Tutorials Ninja.
 # Code screenshot
 ![image](https://github.com/user-attachments/assets/126ee40e-346a-4b10-9ca9-d796bb43c2c8)
+# Tools
+Programming Language: Java
+Selenium
+Web Browser: Chrome or Firefox
+IDE/Text Editor: Spring Tool Suite 
 
 
 
