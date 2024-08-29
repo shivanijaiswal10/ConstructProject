@@ -9,7 +9,10 @@ The objective of this assignment is to build a Selenium script that automates th
 # Tools
 Programming Language: Java
 Selenium
+
 Web Browser: Chrome or Firefox
+
+
 IDE/Text Editor: Spring Tool Suite 
 
 
